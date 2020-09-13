@@ -1,4 +1,4 @@
-# Análisis de caso sistemas distribuidos (Entrega 1)
+# Análisis de caso sistemas distribuidos
 
 [Pep 1: Desarrollo y análisis del sistema legado](https://github.com/Taekleee/distribuidos-catedra/wiki/Pep-1)
 
